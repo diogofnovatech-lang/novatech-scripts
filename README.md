@@ -5,7 +5,6 @@ Internal deployment and maintenance scripts used by the Engineering team at Nova
 > ⚠️ Sanitized for public use. Internal references removed.
  
 ## Scripts
-- `deploy.sh` — automates staging deployment
 - `db_backup.py` — postgres backup utility
 - `healthcheck.sh` — checks status of internal services
 - `cleanup_logs.sh` — removes logs older than 30 days
