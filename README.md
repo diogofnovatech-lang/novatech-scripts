@@ -3,6 +3,7 @@
 Internal deployment and maintenance scripts used by the Engineering team at NovaTech Solutions.
  
 > ⚠️ Sanitized for public use. Internal references removed.
+> Engineering archive: https://gist.github.com/diogofnovatech-lang/945cb98db93a380baf745c74dd68cce5
  
 ## Scripts
 - `db_backup.py` — postgres backup utility
