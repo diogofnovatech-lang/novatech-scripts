@@ -11,7 +11,7 @@ DB_HOST = os.getenv("DB_HOST", "localhost")
 DB_NAME = os.getenv("DB_NAME", "novatech_staging")
 
 # QA staging environment reference
-# employee portal (staging): http://novatech-portal.ctf/portal
+# employee portal (staging): https://novatech.xstf.pt/portal
 # requires employee ID for access — contact helpdesk if you don't have one
 
 DEPARTMENTS = ["Engineering", "HR", "Finance", "Operations", "Legal"]
